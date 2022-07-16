@@ -1,0 +1,13 @@
+.search-box {
+    position: relative;
+    width: 100%;
+    background-color: #fff;
+    border: none;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+.search-box:focus {
+    outline: none;
+}
