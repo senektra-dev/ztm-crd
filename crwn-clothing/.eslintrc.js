@@ -7,7 +7,6 @@ module.exports = {
   extends: [
     'standard',
     'plugin:react/recommended',
-    'plugin:@typescript-eslint/recommended',
     'plugin:react/jsx-runtime',
     'react-app',
     'react-app/jest'
