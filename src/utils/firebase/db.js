@@ -28,6 +28,4 @@ export const createUserDocumentFromAuth = async (userAuth) => {
   } catch (error) {
     console.error('Error creating user document', error)
   }
-
-  console.log(userAuth)
 }

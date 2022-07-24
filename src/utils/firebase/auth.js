@@ -1,7 +1,7 @@
 import {
   getAuth,
-  signInWithRedirect,
-  signInWithPopup, GoogleAuthProvider
+  signInWithPopup,
+  GoogleAuthProvider
 } from 'firebase/auth'
 
 const provider = new GoogleAuthProvider()
